@@ -1,7 +1,7 @@
 ### Hola a todos mi nombre es Damian  👋
 
 
-Soy una persona que le encanta todo lo relacionado con la tecnologia, desde chico tenia como hobby instalar sistemas operativos como DOS Windows 98 en adelante hasta Windows 10 , armado y reparacion de pcs , probar tecnologias nuevas, luego gracias a la secundaria le empece a agarrar el gustito a la programación, tanto que me ha llevado a capacitarme contantemente.
+Soy una persona que le encanta todo lo relacionado con la tecnologia, desde chico tenia como hobby instalar sistemas operativos como DOS Windows 98 en adelante hasta Windows 10 como tambien el armado y reparacion de pcs , probar tecnologias nuevas, luego gracias a la secundaria le empece a agarrar el gustito a la programación, tanto que me ha llevado a capacitarme constantemente.
 
 He trabajado muchos años de soporte tecnico , pero ahora me encuentro en un Bootcamp de MindHub para convertirme en desarrollador FULL STACK JAVA , he aprendido muchas tecnologias y en estos meses pude tambien desarrollar las habiliades blandas como emular un entorno de trabajo , como las daylis, trabajos en equipo, presentaciones y retros.
 
