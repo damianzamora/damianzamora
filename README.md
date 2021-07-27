@@ -1,21 +1,23 @@
 ### Hola a todos mi nombre es Damian  👋
 
 
-Soy una persona que le encanta todo lo relacionado con la tecnologia, desde chico tenia como hobby instalar sistemas operativos como DOS Windows 98 en adelante hasta Windows 10 como tambien el armado y reparacion de pcs , probar tecnologias nuevas, luego gracias a la secundaria le empece a agarrar el gustito a la programación, tanto que me ha llevado a capacitarme constantemente.
+Soy una persona que le encanta todo lo relacionado con la tecnologia, desde chico tenia como hobby instalar sistemas operativos como DOS Windows 98 en adelante ,como tambien el armado y reparacion de pcs , luego gracias a la secundaria le empece a agarrar el gustito a la programación, tanto que me ha llevado a capacitarme constantemente.
 
 He trabajado muchos años de soporte tecnico , pero ahora me encuentro en un Bootcamp de MindHub para convertirme en desarrollador FULL STACK JAVA , he aprendido muchas tecnologias y en estos meses pude tambien desarrollar las habiliades blandas como emular un entorno de trabajo , como las daylis, trabajos en equipo, presentaciones y retros.
 
 En mis repositorios se pueden ver algunos trabajos que realice durante el bootcamp, usando las siguientes tecnologias.
 
-Java
-Spring Framework
-JavaScript
-HTML5
-Bootstrap
-Vue.js
-IntelliJ
-Visual Studio Code
 
+  <ol>
+  <li>Java</li>
+  <li>Spring Framework</li>
+  <li>JavaScript</li>
+  <li>HTML5</li>
+  <li>Bootstrap</li>
+  <li>Vue.js</li>
+  <li>IntelliJ</li>
+  <li>Visual Studio Code</li>
+  </ol>
 
 
 Dejo mis links de contacto:
