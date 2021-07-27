@@ -8,7 +8,7 @@ He trabajado muchos años de soporte tecnico , pero ahora me encuentro en un Boo
 En mis repositorios se pueden ver algunos trabajos que realice durante el bootcamp, usando las siguientes tecnologias.
 
 
-  <ol type=”A”>
+  <ul >
   <li>Java</li>
   <li>Spring Framework</li>
   <li>JavaScript</li>
@@ -17,7 +17,7 @@ En mis repositorios se pueden ver algunos trabajos que realice durante el bootca
   <li>Vue.js</li>
   <li>IntelliJ</li>
   <li>Visual Studio Code</li>
-  </ol>
+  </ul>
 
 
 Dejo mis links de contacto:
