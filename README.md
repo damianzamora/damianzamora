@@ -3,22 +3,34 @@
 
 Soy una persona que le encanta todo lo relacionado con la tecnologia, desde chico tenia como hobby instalar sistemas operativos como DOS Windows 98 en adelante ,como tambien el armado y reparacion de pcs , luego gracias a la secundaria le empece a agarrar el gustito a la programación, tanto que me ha llevado a capacitarme constantemente.
 
-He trabajado muchos años de soporte tecnico , pero ahora me encuentro en un Bootcamp de MindHub para convertirme en desarrollador FULL STACK JAVA , he aprendido muchas tecnologias y en estos meses pude tambien desarrollar las habiliades blandas como emular un entorno de trabajo , como las daylis, trabajos en equipo, presentaciones y retros.
+He trabajado muchos años de soporte tecnico , pero recientemente finalice un Bootcamp en MindHub para convertirme en DESARROLLADOR FULL STACK JAVA , he aprendido muchas tecnologias y en estos meses pude tambien desarrollar las habiliades blandas como emular un entorno de trabajo , como las dailys, retros trabajos en equipo y presentaciones.
 
-En mis repositorios se pueden ver algunos trabajos que realice durante el bootcamp, usando las siguientes tecnologias.
+Enumero dos de mis ultimos trabajos realizados con Java como BackEnd.
 
+WordBank Application
+https://worldhomebanking.herokuapp.com/Web/index.html
+
+Lollapalooza
+https://lollapalooza-ecommerce.herokuapp.com/
+
+
+Tecnologias aplicadas
 
   <ul >
-  <li>Java</li>
-  <li>Spring Framework</li>
+  <li>Java 11</li>
+  <li>Spring Boot Framework</li>
   <li>JavaScript</li>
   <li>HTML5</li>
   <li>Bootstrap</li>
   <li>Vue.js</li>
   <li>IntelliJ</li>
   <li>Visual Studio Code</li>
+  <li>Axios</li>
+  <li>Fetch</li>
+  <li>SessionStorage</li>
   </ul>
 
+En mis repositorios se pueden ver los projectos en detalle, y otros proyectos como un PETSHOP.
 
 Dejo mis links de contacto:
 
