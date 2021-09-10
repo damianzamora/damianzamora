@@ -1,9 +1,9 @@
 ### Hola a todos mi nombre es Damian  👋
 
 
-Soy una persona que le encanta todo lo relacionado con la tecnologia, desde chico tenia como hobby instalar sistemas operativos como DOS Windows 98 en adelante ,como tambien el armado y reparacion de pcs , luego gracias a la secundaria le empece a agarrar el gustito a la programación, tanto que me ha llevado a capacitarme constantemente.
+Me encanta todo lo relacionado con la tecnologia, desde chico mi hobby era instalar sistemas operativos como DOS Windows 98 en adelante ,como tambien el armado y reparacion de pcs ,luego gracias a la secundaria le empece a agarrar el gustito a la programación, por lo cual me he estado capacitando constantemente.
 
-He trabajado muchos años de soporte tecnico , pero recientemente finalice un Bootcamp en MindHub para convertirme en DESARROLLADOR FULL STACK JAVA , he aprendido muchas tecnologias y en estos meses pude tambien desarrollar las habiliades blandas como emular un entorno de trabajo , como las dailys, retros trabajos en equipo y presentaciones.
+He trabajado muchos años de soporte tecnico , pero recientemente finalicé un Bootcamp en MindHub para convertirme en DESARROLLADOR FULL STACK JAVA , he aprendido muchas tecnologias y en estos meses pude tambien mejorar mis habiliades blandas como emular un entorno de trabajo , como las dailys, retros trabajos en equipo y presentaciones.
 
 Enumero dos de mis ultimos trabajos realizados con Java como BackEnd.
 
@@ -30,7 +30,7 @@ Tecnologias aplicadas
   <li>SessionStorage</li>
   </ul>
 
-En mis repositorios se pueden ver los projectos en detalle, y otros proyectos como un PETSHOP.
+En mis repositorios se pueden ver los projectos en detalle, y otros proyectos que he subido.
 
 Dejo mis links de contacto:
 
