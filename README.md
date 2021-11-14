@@ -38,13 +38,17 @@ Tecnologias utilizadas en distintos proyectos
   </ul>
   
   
-Enumero dos de mis ultimos trabajos realizados. 
+Mis ultimos proyectos realizados subidos a un servidor. 
 
 WordBank Application
 https://worldhomebanking.herokuapp.com/Web/index.html
 
 Lollapalooza
 https://lollapalooza-ecommerce.herokuapp.com/
+
+LicitacionesCampañas
+https://invitacionescampanias.herokuapp.com/panelcampanias.html
+
 
 En mis repositorios se pueden ver todos los projectos en detalle.
 
