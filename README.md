@@ -9,8 +9,8 @@ He trabajado muchos años de soporte tecnico , pero recientemente finalicé un B
 Tecnologias utilizadas en distintos proyectos
 
   <ul >
-  <li>Java 11</li>
-  <li>Java 8</li>
+  <li>Golang</li>
+  <li>Java</li>
   <li>Maven</li>
   <li>Gradle</li>  
   <li>Spring Boot</li>
