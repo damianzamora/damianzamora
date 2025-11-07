@@ -1,74 +1,62 @@
-### Hola a todos mi nombre es Damian 👋 y les voy a contar un poco sobre mi... 
+👋 ¡Hola, soy Damian!
 
+Soy un apasionado por la tecnología desde que tengo memoria 💻.
+Desde chico me fascinaba instalar sistemas operativos (¡sí, incluso DOS y Windows 98!) y armar o reparar PCs.
+Con el tiempo descubrí mi verdadera vocación: la programación, y desde entonces no he dejado de aprender y crear.
 
-...me encanta todo lo relacionado con la tecnologia, desde chico mi hobby era instalar sistemas operativos como DOS Windows 98 en adelante ,como tambien el armado y reparacion de pcs ,luego gracias a la secundaria le empece a agarrar el gustito a la programación, por lo cual me he estado capacitando constantemente.
+🚀 Sobre mí
 
-He trabajado muchos años de soporte tecnico , pero recientemente finalicé un Bootcamp en MindHub para convertirme en DESARROLLADOR FULL STACK JAVA , he aprendido muchas tecnologias y en estos meses pude tambien mejorar mis habiliades blandas como emular un entorno de trabajo , como las dailys, retros trabajos en equipo y presentaciones.
+💼 Cuento con más de 4 años y medio de experiencia en desarrollo backend, trabajando principalmente con Golang y Java.
 
+🦾 En este tiempo, me he especializado en diseño y desarrollo de APIs RESTful, optimización de rendimiento, y arquitecturas escalables con Go.
 
-Tecnologias utilizadas en distintos proyectos
+💡 Golang se ha convertido en mi lenguaje favorito por su eficiencia, concurrencia nativa y claridad. Lo he utilizado para construir servicios sólidos y de alto rendimiento en entornos productivos.
 
-  <ul >
-  <li>Golang</li>
-  <li>Java</li>
-  <li>Maven</li>
-  <li>Gradle</li>  
-  <li>Spring Boot</li>
-  <li>JavaScript</li>
-  <li>HTML5</li>
-  <li>Bootstrap</li>
-  <li>VUE.js 3.0</li>
-  <li>Axios</li>
-  <li>Fetch</li>
-  <li>SessionStorage</li>
-  </ul>
-  
-  Programas
-  <ul>
-  <li>IntelliJ</li>
-  <li>Visual Studio Code</li>
-  <li>Eclipse</li>
-  </ul>
-  
-  Base de datos
-  <ul>
-  <li>MySql</li>
-  <li>PostGred</li>
-  <li>Informix</li>
-  </ul>
-  
-  
-Mis ultimos proyectos realizados subidos a un servidor. 
+☕ También tengo una sólida base en Java y Spring Boot, aplicando buenas prácticas y patrones de diseño.
 
-WordBank Application
-https://worldhomebanking.herokuapp.com/Web/index.html
+🎓 Finalicé un Bootcamp Full Stack Java en MindHub, donde reforcé mis conocimientos en tecnologías frontend, metodologías ágiles y trabajo en equipo.
 
-Lollapalooza
-https://lollapalooza-ecommerce.herokuapp.com/
+🤝 Me considero una persona curiosa, colaborativa y con enfoque en la mejora continua.
 
-LicitacionesCampañas
-https://invitacionescampanias.herokuapp.com/panelcampanias.html
+🧠 Tecnologías y herramientas
+🔹 Lenguajes y frameworks
 
+Golang (Go) 🐹
 
-En mis repositorios se pueden ver todos los projectos en detalle.
+Java, Spring Boot, Maven, Gradle
 
-Mis links de contacto:
+JavaScript, HTML5, Bootstrap, Vue.js 3, Axios, Fetch, SessionStorage
 
-<a href="https://www.linkedin.com/in/damian-zamora/">LinkedIn</a>
-<p>damian.zamora@hotmail.com</p>
+🔹 Bases de datos
 
+MySQL
 
-<!--
-**damianzamora/damianzamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PostgreSQL
 
-Here are some ideas to get you started:
+Informix
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 IDEs y entornos
+
+IntelliJ IDEA
+
+Visual Studio Code
+
+Eclipse
+
+💼 Proyectos destacados
+
+🌍 WordBank Application
+
+🎵 Lollapalooza E-commerce
+
+🧾 Licitaciones Campañas
+
+📂 Puedes ver más proyectos y código en mis repositorios
+.
+
+📫 Contacto
+
+LinkedIn: Damian Zamora
+ (agrega tu enlace aquí)
+
+Email: damian.zamora@hotmail.com
