@@ -8,7 +8,7 @@ Con el tiempo descubrí mi verdadera vocación: la programación, y desde entonc
 
 💼 Cuento con más de 4 años y medio de experiencia en desarrollo backend, trabajando principalmente con Golang y Java.
 
-🦾 En este tiempo, me he especializado en diseño y desarrollo de APIs RESTful, optimización de rendimiento, y arquitecturas escalables con Go.
+🦾 En este tiempo, me he especializado en el diseño y desarrollo de APIs RESTful, la optimización de rendimiento, y la creación de arquitecturas escalables con Go.
 
 💡 Golang se ha convertido en mi lenguaje favorito por su eficiencia, concurrencia nativa y claridad. Lo he utilizado para construir servicios sólidos y de alto rendimiento en entornos productivos.
 
@@ -56,7 +56,6 @@ Eclipse
 
 📫 Contacto
 
-LinkedIn: Damian Zamora
- (agrega tu enlace aquí)
+🔗 LinkedIn: Damian Zamora
 
-Email: damian.zamora@hotmail.com
+✉️ Email: damian.zamora@hotmail.com
